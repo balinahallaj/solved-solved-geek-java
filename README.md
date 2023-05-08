@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solved-geek-java
+<br>
+Geek.java
+
+Write a class definition (not a program, there is no main method) named Geek (saved in a file Geek.java) that models a person who is a geek. For our purposes, a geek is someone who delights in answering all sorts of questions, such as “is this year a leap year?”, “what is the sum of all numbers between two numbers?”, “what is a prime number?”, among other things. A Geek has a name and also keeps track of how many questions s/he has answered.Your Geek class must have only two instance variables – the Geek’s name and number ofWhat This Assignment Is About:• Loops• Control flow• Implementing classesMethods Description of the methodspublic Geek (String name)the Geek’s name, the number of questions isassigned to zero.
